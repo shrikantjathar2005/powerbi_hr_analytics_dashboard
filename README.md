@@ -26,7 +26,7 @@ understand why employees leave and where intervention is needed.
 - `Reports/HR ANALYTICS DASHBOARD.pdf` – Exported dashboard report
 
 ## 📌 Preview
-![Dashboard Preview]([Reports/HR%20ANALYTICS%20DASHBOARD.pdf](https://app.powerbi.com/groups/me/reports/b84244a2-cb0a-4098-8b01-135cbb7c695a/9e4b9d5160abf1c9ebec?experience=power-bi))
+https://app.powerbi.com/groups/me/reports/b84244a2-cb0a-4098-8b01-135cbb7c695a/9e4b9d5160abf1c9ebec?experience=power-bi
 
 ## 🚀 Future Improvements
 - Drill-through analysis
